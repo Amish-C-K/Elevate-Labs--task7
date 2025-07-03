@@ -21,9 +21,13 @@ Manually checked each extension for:
 - Permissions requested
 - Reviews and ratings (via Chrome Web Store and external searches)
 
+  ![all installed extentions](https://github.com/Amish-C-K/Elevate-Labs--task7/blob/main/images/t7-1.png)
+
 ### 3. Checked Permissions and Source  
 - Looked for extensions with high-risk permissions (e.g., "Read and change all your data on the websites you visit").
 - Searched for reviews and reports of malicious behavior.
+
+  ![check permissions](https://github.com/Amish-C-K/Elevate-Labs--task7/blob/main/images/t7-2.png)
 
 ### 4. Identified Suspicious/Unused Extensions  
 Marked the following extensions as suspicious or unnecessary based on poor reviews, excessive permissions, and lack of usage:
