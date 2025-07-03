@@ -29,7 +29,13 @@ Manually checked each extension for:
 
   ![check permissions](https://github.com/Amish-C-K/Elevate-Labs--task7/blob/main/images/t7-2.png)
 
-### 4. Identified Suspicious/Unused Extensions  
+### 4. Look for poor reviews, warnings, or red flags
+- search the extentions in google and check if there is any issue or warning from other users.
+- also check about the exteions in cybersecurity blogs.
+
+  ![check permissions](https://github.com/Amish-C-K/Elevate-Labs--task7/blob/main/images/t7-3.png)
+
+### 5. Identified Suspicious/Unused Extensions  
 Marked the following extensions as suspicious or unnecessary based on poor reviews, excessive permissions, and lack of usage:
 
 | Extension Name       | Status        | Reason for Removal                                      |
