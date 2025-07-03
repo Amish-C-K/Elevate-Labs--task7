@@ -88,6 +88,5 @@ This exercise highlighted the importance of maintaining a clean and secure brows
 
 ---
 
-**Task Completed On:** `2025-07-03`  
-**Author:** _[Your Name Here]_
+**Task Completed On:** `2025-07-03`
 
