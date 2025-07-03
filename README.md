@@ -43,10 +43,10 @@ Marked the following extensions as suspicious or unnecessary based on poor revie
 | PDF Converter Pro    | ❌ Removed     | Unknown source, poor reviews, requested excessive access |
 | Weather Now          | ❌ Removed     | Injected ads, unfamiliar developer, flagged by users     |
 
-### 5. Removed Extensions  
+### 6. Removed Extensions  
 Used Chrome's built-in remove option to uninstall the flagged extensions.
 
-### 6. Restarted Chrome  
+### 7. Restarted Chrome  
 Fully closed and relaunched the browser. Noted improvement in performance:
 - Faster load times
 - No more ad popups or redirect behavior
