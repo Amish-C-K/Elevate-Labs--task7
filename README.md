@@ -38,10 +38,14 @@ Manually checked each extension for:
 ### 5. Identified Suspicious/Unused Extensions  
 Marked the following extensions as suspicious or unnecessary based on poor reviews, excessive permissions, and lack of usage:
 
+  ![check permissions](https://github.com/Amish-C-K/Elevate-Labs--task7/blob/main/images/t7-.4.png)
+
+  ![check permissions](https://github.com/Amish-C-K/Elevate-Labs--task7/blob/main/images/t7-.5.png)
+    
 | Extension Name       | Status        | Reason for Removal                                      |
 |----------------------|---------------|----------------------------------------------------------|
-| PDF Converter Pro    | ❌ Removed     | Unknown source, poor reviews, requested excessive access |
-| Weather Now          | ❌ Removed     | Injected ads, unfamiliar developer, flagged by users     |
+| EPUB to PDF converter    | ❌ Removed     | Unknown source, poor reviews, requested excessive access |
+| Weather Forecast          | ❌ Removed     | Injected ads, unfamiliar developer, flagged by users     |
 
 ### 6. Removed Extensions  
 Used Chrome's built-in remove option to uninstall the flagged extensions.
